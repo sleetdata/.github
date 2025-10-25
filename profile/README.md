@@ -11,20 +11,14 @@ NEAR
 
 
 INTEAR
-<br/>
 🔗 https://intea.rs/
-<br/>
-🐱 https://github.com/INTEARnear
-<br/>
+- 🐱 https://github.com/INTEARnear
 - https://github.com/INTEARnear/inindexer
 - https://github.com/INTEARnear/inevents
 
 FASTNEAR
-<br/>
-🔗 https://fastnear.com/
-<br/>
-🐱 https://github.com/fastnear
-<br/>
+- 🔗 https://fastnear.com/
+- 🐱 https://github.com/fastnear
 - https://github.com/fastnear/neardata-server/
 - https://github.com/fastnear/fastnear-api-server-rs
 - https://github.com/fastnear/explorer-api
