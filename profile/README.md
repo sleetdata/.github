@@ -3,11 +3,12 @@
 
 ---
 
-### TOOLS AND RESOURCES
+### TOOLS AND RESOURCES (AWESOME NEAR INDEXING)
 
 NEAR
 - https://docs.near.org/data-infrastructure/what-is
 - https://docs.near.org/tools/indexing
+- https://crates.io/crates/near-indexer-primitives
 
 
 INTEAR
@@ -15,6 +16,7 @@ INTEAR
 - 🐱 https://github.com/INTEARnear
 - https://github.com/INTEARnear/inindexer
 - https://github.com/INTEARnear/inevents
+- https://crates.io/crates/inindexer
 
 FASTNEAR
 - 🔗 https://fastnear.com/
@@ -27,6 +29,16 @@ FASTNEAR
 Vladimir Grichina
 - https://github.com/vgrichina/fast-near
 - https://github.com/vgrichina/near-state-indexer
+
+Evgeny Kuzyakov
+- https://github.com/evgenykuzyakov/compact-indexer
+
+NEAR SOCIAL
+- https://github.com/NearSocial/api-server-js.git
+- https://api.near.social
+
+HERE Wallet
+- https://github.com/here-wallet/near-zmq-indexer
 
 ---
 
