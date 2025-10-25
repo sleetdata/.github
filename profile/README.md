@@ -22,6 +22,7 @@ FASTNEAR
 - https://github.com/fastnear/neardata-server/
 - https://github.com/fastnear/fastnear-api-server-rs
 - https://github.com/fastnear/explorer-api
+- 🦀 https://crates.io/crates/fastnear-neardata-fetcher
 
 Vladimir Grichina
 - https://github.com/vgrichina/fast-near
