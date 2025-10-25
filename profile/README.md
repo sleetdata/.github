@@ -23,6 +23,9 @@ FASTNEAR
 - https://github.com/fastnear/fastnear-api-server-rs
 - https://github.com/fastnear/explorer-api
 
+Vladimir Grichina
+- https://github.com/vgrichina/fast-near
+- https://github.com/vgrichina/near-state-indexer
 
 ---
 
