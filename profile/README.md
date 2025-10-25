@@ -11,7 +11,7 @@ NEAR
 
 
 INTEAR
-🔗 https://intea.rs/
+- 🔗 https://intea.rs/
 - 🐱 https://github.com/INTEARnear
 - https://github.com/INTEARnear/inindexer
 - https://github.com/INTEARnear/inevents
