@@ -25,20 +25,17 @@ FASTNEAR
 - https://github.com/fastnear/fastnear-api-server-rs
 - https://github.com/fastnear/explorer-api
 - 🦀 https://crates.io/crates/fastnear-neardata-fetcher
-
-Vladimir Grichina
 - https://github.com/vgrichina/fast-near
 - https://github.com/vgrichina/near-state-indexer
-
-Evgeny Kuzyakov
 - https://github.com/evgenykuzyakov/compact-indexer
 
 NEAR SOCIAL
 - https://github.com/NearSocial/api-server-js.git
 - https://api.near.social
 
-HERE Wallet
+OTHER
 - https://github.com/here-wallet/near-zmq-indexer
+- https://github.com/cuongdcdev/neardata-inindexer-ts
 
 ---
 
