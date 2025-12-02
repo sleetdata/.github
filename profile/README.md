@@ -9,6 +9,7 @@ NEAR
 - https://docs.near.org/data-infrastructure/what-is
 - https://docs.near.org/tools/indexing
 - https://crates.io/crates/near-indexer-primitives
+- https://live.near.tools/
 
 
 INTEAR
