@@ -37,6 +37,7 @@ NEAR SOCIAL
 OTHER
 - https://github.com/here-wallet/near-zmq-indexer
 - https://github.com/cuongdcdev/neardata-inindexer-ts
+- https://github.com/r-near/near-stream
 
 ---
 
